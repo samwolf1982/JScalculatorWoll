@@ -1,2 +1,3 @@
-# JSimagemix
-overlay images one by one
+# JScallulator of wall
+calculator script
+
